@@ -1,0 +1,96 @@
+
+
+/*  body{
+    margin: 0;
+    padding:0;
+
+
+}*/
+
+
+
+.mw1{
+
+  background-color:#ffffff;
+
+}
+
+  /*.images{
+    flex:1;
+    order:3;
+     background:#FFC133 url('mac.png') no-repeat;
+
+
+  }*/
+  .container{
+    width:88%
+
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+
+  }
+.container2{  overflow-wrap: break-word;
+
+   background:#FFC133 url('mac.png') no-repeat right center;
+   background-size: contain;
+   height:200px;
+   margin-right: 80px;
+
+
+}
+
+
+#will {
+  color:#ffffff;
+  overflow-wrap: break-word;
+  word-wrap: normal;
+  margin-left: 80px;
+  margin-right: 80px;
+
+
+}
+   /* #showcase{
+
+    min-height: 400px;
+
+    color:#ffffff;
+  } */
+
+
+
+  .button{
+    margin-left:80px;
+    border: 1px solid white;
+    padding: 10px;
+    color: white;
+    background-color: transparent;
+
+  }
+
+/*Box */
+/*.container2{
+  width:auto;
+} */
+  #boxes{
+    margin: 20px;
+  }
+
+  #boxes   .box{
+    justify-content: space-between
+      flex: auto;
+      text-align: center;
+      padding:90px;
+      margin:10px;
+    }
+
+  /*  #boxes .box img{
+
+
+    } */
+
+     .tin{
+
+      flex:2;
+      order:2;
+    }
